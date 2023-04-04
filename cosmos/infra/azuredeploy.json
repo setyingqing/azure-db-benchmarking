@@ -153,7 +153,7 @@
         },
         "useGateway": {
             "type": "bool",
-            "defaultValue": false,
+            "defaultValue": true,
             "metadata": {
                 "description": "Specifies if the gateway connectivity mode should be used. The default value 'flase' indicates direct connectivity mode"
             }
